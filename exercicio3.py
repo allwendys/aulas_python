@@ -1,0 +1,10 @@
+numero1 = int(input("Digite o primeiro número: "))
+numero2 = int(input("Digite o segundo número: "))
+numero3 = int(input("Digite o terceiro número: "))
+numero4 = int(input("Digite o quarto número: "))
+numero5 = int(input("Digite o quinto número: "))
+
+print ("A soma entre o primeiro e o terceiro é: " , (numero1 + numero3))
+print ("A subtração entre o segundo e o quarto é: " , (numero2 - numero4))
+print ("A multiplicação entre todos é: " , (numero1 * numero2 * numero3 * numero4 * numero5))
+print ("A divisão entre o quinto e o primeiro é: " , (numero5 / numero1))
