@@ -1,3 +1,9 @@
-print ("Hello World")
-print ("Bom dia meus queridos alunos")
-print ("A soma de 2 + 2 é " , (2+2))
+frutas = ["pera", "uva", "maçã"]
+
+print (len(frutas))
+print (frutas[1])
+frutas.append("morango")
+print(frutas)
+frutas.remove(maçã)
+del(frutas[0])
+print(frutas)
